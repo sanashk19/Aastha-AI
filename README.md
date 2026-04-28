@@ -1,4 +1,4 @@
-🌍 Aastha AI — From Scattered Signals to Measurable Impact
+# 🌍 Aastha AI — From Scattered Signals to Measurable Impact
 
 An AI-powered platform for real-time humanitarian coordination and evidence-based resource allocation.
 
@@ -119,12 +119,12 @@ GOOGLE_CLOUD_PROJECT=your-project-id
 VERTEX_AI_LOCATION=us-central1
 GEMINI_MODEL=gemini-1.5-flash
 FIREBASE_API_KEY=your-key
-📌 Future Scope
+#📌 Future Scope
 District-level government integration
 Multi-state NGO network
 Federated learning across regions
 Advanced predictive analytics
-👩‍💻 Team
+#👩‍💻 Team
 
 Sana Shaikh
 Prathiksha Gajula
