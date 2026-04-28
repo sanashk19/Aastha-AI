@@ -1,0 +1,30 @@
+{
+  "functions": [
+    {
+      "source": "functions"
+    }
+  ],
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "functions/**",
+      "firestore.rules",
+      "storage.rules",
+      "react-app/**",
+      "mobile-app/**",
+      "node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/aastha-complete-web.html"
+      }
+    ]
+  }
+}
